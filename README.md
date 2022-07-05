@@ -33,7 +33,9 @@ archivo llamado YAML.Es mas facil amnejar un archivo.
  ```
 
  
-[![Perfil](https://img.shields.io/badge/LINK%20DE%20LA%20IMAGEN%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://localhost:8000/)
+[![Perfil](https://img.shields.io/badge/LINK%20DE%20LA%20IMAGEN%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](http://localhost:8000/wp-admin/install.php)
+
+O ingresar a localhost:8000
 
 
 ![Image text](https://github.com/ElizabethYasmin/DockerCompose/blob/yasmin/WMYSQL.png)
